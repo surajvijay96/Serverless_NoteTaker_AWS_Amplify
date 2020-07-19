@@ -1,5 +1,7 @@
 # Serverless_NoteTaker_AWS_Amplify
 
+A complete Serverless and highly scalable Note Taker App build using ReactJS, GraphQL, AWS Amplify, DynamoDB, Amazon Cognito, AWS AppSync, and hosted on Amazon S3. Users can create account with a valid email ID and email verification. The users can add note, read note, update note and delete note.It uses GraphQL and all the note data is stored in Amazon DynamoDB and user authentication is managed by Amazon Cognito. A complete serverless application and users doesn't have to manage any servers. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
